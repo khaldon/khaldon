@@ -51,7 +51,7 @@
 
 ### 🌟 Featured Project
 
-**[Intelligent SMS Filtering System](#)**  
+**[Intelligent SMS Filtering System](https://github.com/khaldon/sms-binary-classification)**  
 > A smart NLP-powered tool that detects scam & spam messages with **89% precision** and **31% higher recall** than legacy systems—protecting users from fraud while preserving important communications.
 
 ---
