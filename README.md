@@ -8,7 +8,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Mohamed Khaled</h1>
-<h3 align="center">Machine Learning Engineer | LLM & NLP Specialist | Full-Stack Developer</h3>
+<h3 align="center">AI Engineer | NLP \& LLM Specialist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-khaled33388/">
